@@ -1,0 +1,3 @@
+Subject: API latency very high
+Our calls to the reports endpoint have been taking 8 to 10 seconds since the
+weekend. Nothing changed on our side. Customers are noticing.
